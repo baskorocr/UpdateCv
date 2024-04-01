@@ -38,7 +38,7 @@ export default function Home() {
           <Heading as="h2" variant="page-title">
            Mahesa Putra Baskoro Cahyo Ramadhan
           </Heading>
-          <p>Programmer || IoT Engineering || EV Researcher || RnD Product Development</p>
+          <p>Programmer || IoT Engineering || EV Researcher || RnD Product</p>
           <p>Yogyakarta - Cikarang </p>
         </Box>
 
